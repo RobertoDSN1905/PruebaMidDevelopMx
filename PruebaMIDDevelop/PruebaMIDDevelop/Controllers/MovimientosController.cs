@@ -12,6 +12,7 @@ namespace PruebaMIDDevelop.Controllers
         private readonly IRepository<Movimiento> _movimientoRepository;
         private readonly IRepository<Persona> _personaRepository;
         private readonly IRepository<Cuenta> _CuentaRepository;
+        private MovimientoRepository @object;
 
         public MovimientosController(IRepository<Movimiento> movimientoRepository,IRepository<Persona> personaRepository, IRepository<Cuenta> cuentaRepository)
         {
@@ -19,6 +20,7 @@ namespace PruebaMIDDevelop.Controllers
             _personaRepository = personaRepository;
             _CuentaRepository = cuentaRepository;
         }
+        
 
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Movimiento>>> GetMovimientos()

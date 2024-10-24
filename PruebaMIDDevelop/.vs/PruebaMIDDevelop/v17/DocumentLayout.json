@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\",
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{669C0BA8-1731-4E95-A87F-80773C6CD870}|PruebaMIDDevelop\\PruebaMIDDevelop.csproj|c:\\users\\roberto\\desktop\\pruebamid\\pruebamiddevelop\\pruebamiddevelop\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{669C0BA8-1731-4E95-A87F-80773C6CD870}|PruebaMIDDevelop\\PruebaMIDDevelop.csproj|solutionrelative:pruebamiddevelop\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DF12057-3FAE-4B61-A7F9-D3575E14E111}|TestsMID\\TestsMID.Tests.csproj|c:\\users\\roberto\\documents\\github\\pruebamiddevelopmx\\pruebamiddevelop\\testsmid\\movimientocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF12057-3FAE-4B61-A7F9-D3575E14E111}|TestsMID\\TestsMID.Tests.csproj|solutionrelative:testsmid\\movimientocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{669C0BA8-1731-4E95-A87F-80773C6CD870}|PruebaMIDDevelop\\PruebaMIDDevelop.csproj|c:\\users\\roberto\\desktop\\pruebamid\\pruebamiddevelop\\pruebamiddevelop\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{669C0BA8-1731-4E95-A87F-80773C6CD870}|PruebaMIDDevelop\\PruebaMIDDevelop.csproj|solutionrelative:pruebamiddevelop\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{669C0BA8-1731-4E95-A87F-80773C6CD870}|PruebaMIDDevelop\\PruebaMIDDevelop.csproj|c:\\users\\roberto\\desktop\\pruebamid\\pruebamiddevelop\\pruebamiddevelop\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{669C0BA8-1731-4E95-A87F-80773C6CD870}|PruebaMIDDevelop\\PruebaMIDDevelop.csproj|solutionrelative:pruebamiddevelop\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{669C0BA8-1731-4E95-A87F-80773C6CD870}|PruebaMIDDevelop\\PruebaMIDDevelop.csproj|c:\\users\\roberto\\desktop\\pruebamid\\pruebamiddevelop\\pruebamiddevelop\\controllers\\movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{669C0BA8-1731-4E95-A87F-80773C6CD870}|PruebaMIDDevelop\\PruebaMIDDevelop.csproj|c:\\users\\roberto\\documents\\github\\pruebamiddevelopmx\\pruebamiddevelop\\pruebamiddevelop\\controllers\\movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{669C0BA8-1731-4E95-A87F-80773C6CD870}|PruebaMIDDevelop\\PruebaMIDDevelop.csproj|solutionrelative:pruebamiddevelop\\controllers\\movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF12057-3FAE-4B61-A7F9-D3575E14E111}|TestsMID\\TestsMID.Tests.csproj|c:\\users\\roberto\\documents\\github\\pruebamiddevelopmx\\pruebamiddevelop\\testsmid\\cuentacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF12057-3FAE-4B61-A7F9-D3575E14E111}|TestsMID\\TestsMID.Tests.csproj|solutionrelative:testsmid\\cuentacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF12057-3FAE-4B61-A7F9-D3575E14E111}|TestsMID\\TestsMID.Tests.csproj|c:\\users\\roberto\\documents\\github\\pruebamiddevelopmx\\pruebamiddevelop\\testsmid\\clientecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF12057-3FAE-4B61-A7F9-D3575E14E111}|TestsMID\\TestsMID.Tests.csproj|solutionrelative:testsmid\\clientecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 241,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonaController.cs",
-              "DocumentMoniker": "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\PruebaMIDDevelop\\Controllers\\PersonaController.cs",
-              "RelativeDocumentMoniker": "PruebaMIDDevelop\\Controllers\\PersonaController.cs",
-              "ToolTip": "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\PruebaMIDDevelop\\Controllers\\PersonaController.cs",
-              "RelativeToolTip": "PruebaMIDDevelop\\Controllers\\PersonaController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwDIAAAA1AAAA",
+              "DocumentIndex": 1,
+              "Title": "MovimientosController.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\PruebaMIDDevelop\\Controllers\\MovimientosController.cs",
+              "RelativeDocumentMoniker": "PruebaMIDDevelop\\Controllers\\MovimientosController.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\PruebaMIDDevelop\\Controllers\\MovimientosController.cs",
+              "RelativeToolTip": "PruebaMIDDevelop\\Controllers\\MovimientosController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T02:00:09.194Z",
+              "WhenOpened": "2024-10-24T04:30:07.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\PruebaMIDDevelop\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "PruebaMIDDevelop\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\PruebaMIDDevelop\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "PruebaMIDDevelop\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAYwD0AAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "MovimientoControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\TestsMID\\MovimientoControllerTest.cs",
+              "RelativeDocumentMoniker": "TestsMID\\MovimientoControllerTest.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\TestsMID\\MovimientoControllerTest.cs",
+              "RelativeToolTip": "TestsMID\\MovimientoControllerTest.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBwAAACLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T01:54:10.266Z"
+              "WhenOpened": "2024-10-24T04:18:03.096Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CuentaController.cs",
-              "DocumentMoniker": "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\PruebaMIDDevelop\\Controllers\\CuentaController.cs",
-              "RelativeDocumentMoniker": "PruebaMIDDevelop\\Controllers\\CuentaController.cs",
-              "ToolTip": "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\PruebaMIDDevelop\\Controllers\\CuentaController.cs",
-              "RelativeToolTip": "PruebaMIDDevelop\\Controllers\\CuentaController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwDIAAAALAAAA",
+              "Title": "CuentaControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\TestsMID\\CuentaControllerTest.cs",
+              "RelativeDocumentMoniker": "TestsMID\\CuentaControllerTest.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\TestsMID\\CuentaControllerTest.cs",
+              "RelativeToolTip": "TestsMID\\CuentaControllerTest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T01:54:08.293Z"
+              "WhenOpened": "2024-10-24T04:18:02.309Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MovimientosController.cs",
-              "DocumentMoniker": "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\PruebaMIDDevelop\\Controllers\\MovimientosController.cs",
-              "RelativeDocumentMoniker": "PruebaMIDDevelop\\Controllers\\MovimientosController.cs",
-              "ToolTip": "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\PruebaMIDDevelop\\Controllers\\MovimientosController.cs",
-              "RelativeToolTip": "PruebaMIDDevelop\\Controllers\\MovimientosController.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAuwD4AAAAAAAAA",
+              "Title": "ClienteControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\TestsMID\\ClienteControllerTests.cs",
+              "RelativeDocumentMoniker": "TestsMID\\ClienteControllerTests.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\TestsMID\\ClienteControllerTests.cs",
+              "RelativeToolTip": "TestsMID\\ClienteControllerTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:05:33.994Z"
+              "WhenOpened": "2024-10-24T04:18:00.977Z",
+              "EditorCaption": ""
             }
           ]
         }

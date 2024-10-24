@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\PruebaMIDDevelop\\PruebaMIDDevelop.csproj": {}
+    "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\PruebaMIDDevelop\\PruebaMIDDevelop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\PruebaMIDDevelop\\PruebaMIDDevelop.csproj": {
+    "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\PruebaMIDDevelop\\PruebaMIDDevelop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\PruebaMIDDevelop\\PruebaMIDDevelop.csproj",
+        "projectUniqueName": "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\PruebaMIDDevelop\\PruebaMIDDevelop.csproj",
         "projectName": "PruebaMIDDevelop",
-        "projectPath": "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\PruebaMIDDevelop\\PruebaMIDDevelop.csproj",
+        "projectPath": "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\PruebaMIDDevelop\\PruebaMIDDevelop.csproj",
         "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roberto\\Desktop\\pruebaMID\\PruebaMIDDevelop\\PruebaMIDDevelop\\obj\\",
+        "outputPath": "C:\\Users\\Roberto\\Documents\\GitHub\\PruebaMidDevelopMx\\PruebaMIDDevelop\\PruebaMIDDevelop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FakeItEasy": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -67,6 +75,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.9.0, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.9.2, )"
             }
           },
           "imports": [
